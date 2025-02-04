@@ -126,7 +126,7 @@ movie-app/
 ## **Deployment** 🌍
 
 **The project is deployed using Vercel.**
-- Vercel Link: FlickFusion on Vercel
+- Vercel Link: [FlickFusion on Vercel](https://flick-fusion-iota.vercel.app/)
 
 **To deploy the app to Vercel:**
 
