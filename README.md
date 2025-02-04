@@ -6,15 +6,13 @@ FlickFusion is a movie search platform built with the MERN stack (MongoDB, Expre
 
 ## **Table of Contents** 📚
 
-1. [Features](#features)
-2. [Technologies](#technologies)
-3. [Setup and Installation](#setup-and-installation)
-4. [Environment Variables](#environment-variables)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Deployment](#deployment)
-8. [Contributing](#contributing)
-9. [License](#license)
+1. Features
+2. Technologies
+3. Setup and Installation
+4. Environment Variables
+5. Usage
+6. Project Structure
+7. Deployment
 
 ---
 
